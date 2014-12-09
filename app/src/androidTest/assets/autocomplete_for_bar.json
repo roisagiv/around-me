@@ -1,0 +1,147 @@
+{
+  "predictions": [
+    {
+      "description": "Barcelona, Spain",
+      "id": "5695851cee37adbcea7305c0473a15906dbcab8f",
+      "matched_substrings": [
+        {
+          "length": 3,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJ5TCOcRaYpBIRCmZHTz37sEQ",
+      "reference": "CjQoAAAAD2xQqyqqnFzJYjuGglEYCuLcYDvqseki68Ha0H07h1XQW9o5s0DMrvx30uIlk9AaEhB-ymCL-wa6wJ79YfYU6r0YGhSe1NwQGwLW9ewR3IgZI16D9nztZQ",
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Barcelona"
+        },
+        {
+          "offset": 11,
+          "value": "Spain"
+        }
+      ],
+      "types": [
+        "locality",
+        "political",
+        "geocode"
+      ]
+    },
+    {
+      "description": "Barbados",
+      "id": "421cf202b85550fb74570bce0977b639b119e930",
+      "matched_substrings": [
+        {
+          "length": 3,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJoxoyrvvxQ4wRKzb0jLNR7A4",
+      "reference": "CiQgAAAAOtAUT7zoTPvAUUB5TQsz61NmmWFrrX1Lj6AuIe5Afq0SELEpvHtj4z3UW_L3xH9bAMAaFFbJFz1Z-ZjCSysIy-iwtIS8-i6O",
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Barbados"
+        }
+      ],
+      "types": [
+        "country",
+        "political",
+        "geocode"
+      ]
+    },
+    {
+      "description": "Bar-Ilan University, Ramat Gan, Israel",
+      "id": "e2d6dac9004bd8fe24f9bc1c1c8acc0d69425379",
+      "matched_substrings": [
+        {
+          "length": 3,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJS1dDumtKHRURxAjCqFDW770",
+      "reference": "CkQ1AAAA2oFIzsOuxZvEKHI2EXTQHVf_aZiLBjmM76T6JBH97qsF_navd9cvLjBoHnTbDJ-UK3hCp-tWJQzLUP6uiS5TDBIQcKbbCWSQSEoZb6nzdJIbdRoUFVxd7N4za58u-noK4cc0cA4Jwqs",
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Bar-Ilan University"
+        },
+        {
+          "offset": 21,
+          "value": "Ramat Gan"
+        },
+        {
+          "offset": 32,
+          "value": "Israel"
+        }
+      ],
+      "types": [
+        "establishment",
+        "geocode"
+      ]
+    },
+    {
+      "description": "Bari, Italy",
+      "id": "d6681be30217948977ba7e846fc1a071c2c49176",
+      "matched_substrings": [
+        {
+          "length": 3,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJb40H8_joRxMR4Qg5agZUcgg",
+      "reference": "CjQjAAAAcojJ5B87ZrkQYgWJ0WmoAHxzAvnQ49dBE1eZyQ0QOXBEc_fbtGCWwenou-u-1INxEhDycksK5cc48W3WzHWB77wfGhS7idU78d8_feUkdqpQznN-KjyxMQ",
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Bari"
+        },
+        {
+          "offset": 6,
+          "value": "Italy"
+        }
+      ],
+      "types": [
+        "locality",
+        "political",
+        "geocode"
+      ]
+    },
+    {
+      "description": "Barra da Tijuca, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+      "id": "a895e339235d617c80308bf1c8d0d7ec978d4c9f",
+      "matched_substrings": [
+        {
+          "length": 3,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJXf62J0ramwARTg-e2NH2w2M",
+      "reference": "CmRZAAAAw5Ev6dbVNCqom9yXrRq-aCyUZbRVoy7pLntG1NvNzRxhoXNI6oxIJ74d4jXAxdiox59dQrSF9CWOzKRxv8beF5OGm4MYc74DABze9EYF14DxSrig-eEG5fdm8ESJ7IbSEhDci4XkImDS1TeTfH8FjRA9GhQYx2diOX8ymy-l-f_NLrRtC9mzsw",
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Barra da Tijuca"
+        },
+        {
+          "offset": 17,
+          "value": "Rio de Janeiro"
+        },
+        {
+          "offset": 34,
+          "value": "State of Rio de Janeiro"
+        },
+        {
+          "offset": 59,
+          "value": "Brazil"
+        }
+      ],
+      "types": [
+        "neighborhood",
+        "political",
+        "geocode"
+      ]
+    }
+  ],
+  "status": "OK"
+}
